@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Goodness Okanlawon",
+	"description": "A project through which I'm having handson learning of how to manage node packages",
+	"keywords": ["Learning", "NPM", "Hands-on", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
